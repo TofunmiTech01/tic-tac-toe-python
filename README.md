@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="images/tictactoe.png" width="300"/>
-</p>
+
 
 # 🎮 Tic Tac Toe — Python Terminal Game
 
-A simple, interactive **two-player Tic Tac Toe game** built in Python and played in the terminal.  
-This project demonstrates core programming concepts such as **functions, lists, loops, conditionals, and input validation**.
-
----
+<p align="center">
+  <img src="tictactoe.png" width="300" />
+</p>
 
 ## 🧩 Features
 
@@ -24,12 +21,11 @@ This project demonstrates core programming concepts such as **functions, lists, 
 ## 📁 Project Structure
 
 ```
-📂 Tic-Tac-Toe
-│
-├── TIC TAC TOE.ipynb
-├── images/
-│   └── tictactoe.png   # Game image
-└── README.md
+- Explanation of the Tic-Tac-Toe Python Program – Extra notes / explanation file
+- README.md – Project documentation
+- TIC TAC TOE.ipynb – Main notebook for the game
+- tictactoe.png – Cover image for the README
+
 ```
 
 ---
