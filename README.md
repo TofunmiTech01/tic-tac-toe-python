@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/tictactoe_cover.png" width="300"/>
+  <img src="images/tictactoe.png" width="300"/>
 </p>
 
 # 🎮 Tic Tac Toe — Python Terminal Game
@@ -28,7 +28,7 @@ This project demonstrates core programming concepts such as **functions, lists, 
 │
 ├── TIC TAC TOE.ipynb
 ├── images/
-│   └── tictactoe_cover.png   # Game image
+│   └── tictactoe.png   # Game image
 └── README.md
 ```
 
